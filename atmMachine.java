@@ -26,7 +26,7 @@ public class atmMachine {
          transactionAction = GET_TRANSACTION_ACTION(); 
          }
          }
-     
+ //Print transaction summary    
  PRINT_TRANSACTION_SUMMARY( initialBalance,  accountBalance, numDeposits, numWithdrawals);
  
  }
